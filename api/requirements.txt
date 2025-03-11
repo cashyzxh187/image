@@ -2,4 +2,4 @@ requests
 psutil
 Pillow
 pycryptodome
-pywin32
+
